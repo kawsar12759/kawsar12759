@@ -14,10 +14,8 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar12759&theme=dark&show_icons=true" height="160" alt="kawsar12759" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=kawsar12759" height="160" alt="languages graph"  />
-</div>
-<br>
-<div align="center">
  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=kawsar12759&show_icons=true&theme=dark" height="160" />
 </div>
+<br>
+
